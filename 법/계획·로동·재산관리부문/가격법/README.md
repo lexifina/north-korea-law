@@ -1,8 +1,8 @@
 # 가격법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/362>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2004년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2355>.
 
-이 본문의 날짜: 1999-08-19 (1999.08.19. 최고인민회의 상임위원회 정령 제955호로 수정).
+이 본문의 날짜: 2003-05-22 (2003.05.22. 최고인민회의 상임위원회 정령 제3768호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
