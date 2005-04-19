@@ -1,8 +1,8 @@
 # 환경보호법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2004년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2391>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2143>.
 
-이 본문의 날짜: 2000-07-24 (2000.07.24. 최고인민회의 상임위원회 정령 제1676호로 수정).
+이 본문의 날짜: 2005-04-19 (2005.04.19. 최고인민회의 상임위원회 정령 제1083호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
