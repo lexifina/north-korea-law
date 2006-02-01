@@ -1,8 +1,8 @@
 # 유용동물보호법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2004년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2393>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/173>.
 
-이 본문의 날짜: 2000-07-24 (2000.07.24. 최고인민회의 상임위원회 정령 제1676호로 수정보충).
+이 본문의 날짜: 2006-02-01 (2006.02.01. 최고인민회의 상임위원회 정령 제1532호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
