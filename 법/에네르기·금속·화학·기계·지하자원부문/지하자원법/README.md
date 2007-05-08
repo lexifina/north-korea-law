@@ -1,8 +1,8 @@
 # 지하자원법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2004년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2362>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2486>.
 
-이 본문의 날짜: 2004-12-28 (2004.12.28. 최고인민회의 상임위원회 정령 제868호로 수정보충).
+이 본문의 날짜: 2007-05-08 (2007.05.08. 최고인민회의 상임위원회 정령 제2227호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
