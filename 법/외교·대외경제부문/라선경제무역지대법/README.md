@@ -1,8 +1,8 @@
 # 라선경제무역지대법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2004년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2435>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2572>.
 
-이 본문의 날짜: 2002-11-07 (2002.11.07. 최고인민회의 상임위원회 정령 제3400호로 수정보충).
+이 본문의 날짜: 2007-09-26 (2007.09.26. 최고인민회의 상임위원회 정령 제2367호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
