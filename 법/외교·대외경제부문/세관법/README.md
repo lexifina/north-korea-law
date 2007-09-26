@@ -1,8 +1,8 @@
 # 세관법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2004년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2433>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2574>.
 
-이 본문의 날짜: 2001-07-26 (2001.07.26. 최고인민회의 상임위원회 정령 제2468호로 수정보충).
+이 본문의 날짜: 2007-09-26 (2007.09.26. 최고인민회의 상임위원회 정령 제2366호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
