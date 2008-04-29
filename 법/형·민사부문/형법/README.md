@@ -1,8 +1,8 @@
 # 형법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2004년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2338>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2459>.
 
-이 본문의 날짜: 2004-04-29 (2004.04.29. 최고인민회의 상임위원회 정령 제432호로 수정보충).
+이 본문의 날짜: 2008-04-29 (2008.04.29. 최고인민회의 상임위원회 정령 제2689호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -45,4 +45,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2023.07.29. | 최고인민회의 상임위원회 정령 제1374호로 수정보충 |
 | 2023.12.24. | 최고인민회의 상임위원회 정령 제1522호로 수정보충 |
 
-조문 161개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 303개, 한 조문에 한 파일 (`제001조.md` ...).
