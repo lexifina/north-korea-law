@@ -1,8 +1,8 @@
 # 국기법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2004년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2329>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2442>.
 
-이 본문의 날짜: 2002-10-24 (2002.10.24. 최고인민회의 상임위원회 정령 제3370호로 수정보충).
+이 본문의 날짜: 2008-07-08 (2008.07.08. 최고인민회의 상임위원회 정령 제2778호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
