@@ -1,8 +1,8 @@
 # 약초법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2561>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/252>.
 
-이 본문의 날짜: 2008-08-19 (2008.08.19. 최고인민회의 상임위원회 정령 제2841호로 수정보충).
+이 본문의 날짜: 2009-06-30 (2009.06.30. 최고인민회의 상임위원회 정령 제130호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
