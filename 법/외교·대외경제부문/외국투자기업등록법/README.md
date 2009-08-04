@@ -1,8 +1,8 @@
 # 외국투자기업등록법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2580>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2196>.
 
-이 본문의 날짜: 2006-01-25 (2006.01.25. 최고인민회의 상임위원회 정령 제1530호로 채택).
+이 본문의 날짜: 2009-08-04 (2009.08.04. 최고인민회의 상임위원회 정령 제207호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
