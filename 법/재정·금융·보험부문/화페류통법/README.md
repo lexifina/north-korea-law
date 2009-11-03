@@ -1,8 +1,8 @@
 # 화페류통법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2539>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/199>.
 
-이 본문의 날짜: 2003-06-05 (2003.06.05. 최고인민회의 상임위원회 정령 제3789호로 수정보충).
+이 본문의 날짜: 2009-11-03 (2009.11.03. 최고인민회의 상임위원회 정령 제392호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
