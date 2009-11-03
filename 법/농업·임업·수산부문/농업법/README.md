@@ -1,8 +1,8 @@
 # 농업법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2499>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1280>.
 
-이 본문의 날짜: 2002-06-13 (2002.06.13. 최고인민회의 상임위원회 정령 제3103호로 수정보충).
+이 본문의 날짜: 2009-11-03 (2009.11.03. 최고인민회의 상임위원회 정령 제392호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
