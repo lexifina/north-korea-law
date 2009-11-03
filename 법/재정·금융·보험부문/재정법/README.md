@@ -1,8 +1,8 @@
 # 재정법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2537>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2150>.
 
-이 본문의 날짜: 2008-02-26 (2008.02.26. 최고인민회의 상임위원회 정령 제2601호로 수정보충).
+이 본문의 날짜: 2009-11-03 (2009.11.03. 최고인민회의 상임위원회 정령 제392호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
