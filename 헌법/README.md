@@ -1,8 +1,8 @@
 # 사회주의헌법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2008년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2440>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2037>.
 
-이 본문의 날짜: 1998-09-05 (1998.09.05. 최고인민회의 제10기 제1차회의에서 수정보충).
+이 본문의 날짜: 2010-04-09 (2010.04.09. 최고인민회의 제12기 제2차회의에서 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -21,4 +21,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2025.01.22~23. | 최고인민회의 제14기 제12차회의에서 수정보충 |
 | 2026.03.22~23. | 최고인민회의 제15기 제1차회의에서 수정보충 |
 
-조문 166개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 172개, 한 조문에 한 파일 (`제001조.md` ...).
