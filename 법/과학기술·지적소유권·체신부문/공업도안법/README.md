@@ -1,8 +1,8 @@
 # 공업도안법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2155>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/202>.
 
-이 본문의 날짜: 2005-08-02 (2005.08.02. 최고인민회의 상임위원회 정령 제1235호로 수정보충).
+이 본문의 날짜: 2011-12-21 (2011.12.21. 최고인민회의 상임위원회 정령 제2052호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
