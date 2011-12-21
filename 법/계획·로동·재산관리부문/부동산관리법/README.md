@@ -1,8 +1,8 @@
 # 부동산관리법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2078>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/68>.
 
-이 본문의 날짜: 2009-11-11 (2009.11.11. 최고인민회의 상임위원회 정령 제395호로 채택).
+이 본문의 날짜: 2011-12-21 (2011.12.21. 최고인민회의 상임위원회 정령 제2052호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
