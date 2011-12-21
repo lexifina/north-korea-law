@@ -1,8 +1,8 @@
 # 외국투자은행법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2198>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2017년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1771>.
 
-이 본문의 날짜: 2002-11-07 (2002.11.07. 최고인민회의 상임위원회 정령 제3400호로 수정).
+이 본문의 날짜: 2011-12-21 (2011.12.21. 최고인민회의 상임위원회 정령 제2051호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
