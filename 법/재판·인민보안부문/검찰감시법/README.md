@@ -1,8 +1,8 @@
 # 검찰감시법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2059>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/42>.
 
-이 본문의 날짜: 2007-02-27 (2007.02.27. 최고인민회의 상임위원회 정령 제2144호로 수정보충).
+이 본문의 날짜: 2012-04-24 (2012.04.24. 최고인민회의 상임위원회 정령 제2346호 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
