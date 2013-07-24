@@ -1,8 +1,8 @@
 # 해사감독법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2102>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1275>.
 
-이 본문의 날짜: 2006-10-31 (2006.10.31. 최고인민회의 상임위원회 정령 제2041호로 수정보충).
+이 본문의 날짜: 2013-07-24 (2013.07.24. 최고인민회의 상임위원회 정령 제3292호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
