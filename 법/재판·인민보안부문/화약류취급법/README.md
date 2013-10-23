@@ -1,8 +1,8 @@
 # 화약류취급법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2071>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/59>.
 
-이 본문의 날짜: 2005-11-09 (2005.11.09. 최고인민회의 상임위원회 정령 제1366호로 채택).
+이 본문의 날짜: 2013-10-23 (2013.10.23. 최고인민회의 상임위원회 정령 제3402호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
