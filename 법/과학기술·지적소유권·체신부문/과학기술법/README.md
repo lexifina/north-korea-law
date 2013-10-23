@@ -1,8 +1,8 @@
 # 과학기술법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2156>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/505>.
 
-이 본문의 날짜: 2005-12-13 (2005.12.13. 최고인민회의 상임위원회 정령 제1437호로 수정보충).
+이 본문의 날짜: 2013-10-23 (2013.10.23. 최고인민회의	상임위원회	정령	제3401호로	수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -17,4 +17,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2019.08.07. | 최고인민회의 상임위원회 정령 제88호로 수정보충 |
 | 2022.08.23. | 최고인민회의 상임위원회 정령 제1032호로 수정보충 |
 
-조문 62개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 82개, 한 조문에 한 파일 (`제001조.md` ...).
