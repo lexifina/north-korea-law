@@ -1,8 +1,8 @@
 # 과수법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2105>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/114>.
 
-이 본문의 날짜: 2010-05-18 (2010.05.18. 최고인민회의 상임위원회 정령 제850호로 수정보충).
+이 본문의 날짜: 2014-03-05 (2014.03.05. 최고인민회의 상임위원회 정령 제3601호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
