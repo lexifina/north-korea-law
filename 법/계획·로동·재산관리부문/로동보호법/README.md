@@ -1,8 +1,8 @@
 # 로동보호법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2075>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1236>.
 
-이 본문의 날짜: 2010-07-08 (2010.07.08. 최고인민회의 상임위원회 정령 제945호로 채택).
+이 본문의 날짜: 2014-03-05 (2014.03.05. 최고인민회의 상임위원회 정령 제3601호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -13,4 +13,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2021.10.26. | 최고인민회의 상임위원회 정령 제758호로 수정보충 |
 | 2022.06.14. | 최고인민회의 상임위원회 정령 제986호로 수정보충 |
 
-조문 8개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 73개, 한 조문에 한 파일 (`제001조.md` ...).
