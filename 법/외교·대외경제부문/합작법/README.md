@@ -1,8 +1,8 @@
 # 합작법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2213>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/301>.
 
-이 본문의 날짜: 2008-08-19 (2008.08.19. 최고인민회의 상임위원회 정령 제2842호로 수정보충).
+이 본문의 날짜: 2014-10-08 (2014.10.08. 최고인민회의 상임위원회 정령 제173호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -16,4 +16,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2011.11.29. | 최고인민회의 상임위원회 정령 제1992호로 수정보충 |
 | 2014.10.08. | 최고인민회의 상임위원회 정령 제173호로 수정보충 |
 
-조문 21개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 23개, 한 조문에 한 파일 (`제001조.md` ...).
