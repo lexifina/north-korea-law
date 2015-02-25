@@ -1,8 +1,8 @@
 # 규격법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2117>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/925>.
 
-이 본문의 날짜: 2005-09-13 (2005.09.13. 최고인민회의 상임위원회 정령 제1298호로 수정보충).
+이 본문의 날짜: 2015-02-25 (2015.02.25. 최고인민회의 상임위원회 정령 제389호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
