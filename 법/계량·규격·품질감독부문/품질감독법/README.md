@@ -1,8 +1,8 @@
 # 품질감독법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2121>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2017년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1655>.
 
-이 본문의 날짜: 2006-02-01 (2006.02.01. 최고인민회의 상임위원회 정령 제1532호로 수정보충).
+이 본문의 날짜: 2015-06-25 (2015.06.25. 최고인민회의 상임위원회 정령 제554호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
