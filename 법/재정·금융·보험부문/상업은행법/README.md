@@ -1,8 +1,8 @@
 # 상업은행법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2148>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/190>.
 
-이 본문의 날짜: 2006-01-25 (2006.01.25. 최고인민회의 상임위원회 정령 제1529호로 채택).
+이 본문의 날짜: 2015-07-22 (2015.07.22. 최고인민회의 상임위원회 정령 제576호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
