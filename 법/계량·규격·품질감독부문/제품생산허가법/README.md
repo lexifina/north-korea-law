@@ -1,8 +1,8 @@
 # 제품생산허가법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2120>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2017년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1656>.
 
-이 본문의 날짜: 2006-11-07 (2006.11.07. 최고인민회의 상임위원회 정령 제2045호로 수정보충).
+이 본문의 날짜: 2016-03-24 (2016.03.24. 최고인민회의 상임위원회 정령 제1026호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
