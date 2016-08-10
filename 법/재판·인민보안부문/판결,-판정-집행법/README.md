@@ -1,8 +1,8 @@
 # 판결, 판정 집행법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2068>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1228>.
 
-이 본문의 날짜: 2009-07-28 (2009.07.28. 최고인민회의 상임위원회 정령 제198호로 수정보충).
+이 본문의 날짜: 2016-08-10 (2016.08.10. 최고인민회의 상임위원회 정령 제1245호로 수정).
 
 | 날짜 | 기록 |
 | --- | --- |
