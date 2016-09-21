@@ -1,8 +1,8 @@
 # 항만법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2101>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/903>.
 
-이 본문의 날짜: 1999-03-11 (1999.03.11. 최고인민회의 상임위원회 정령 제507호로 수정보충).
+이 본문의 날짜: 2016-09-21 (2016.09.21. 최고인민회의 상임위원회 정령 제1321호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
