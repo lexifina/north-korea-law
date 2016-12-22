@@ -1,8 +1,8 @@
 # 도로법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/467>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1321>.
 
-이 본문의 날짜: 2015-01-07 (2015.01.07. 최고인민회의	상임위원회	정령	제314호로	수정보충).
+이 본문의 날짜: 2016-12-22 (2016.12.22. 최고인민회의 상임위원회 정령 제1465호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
