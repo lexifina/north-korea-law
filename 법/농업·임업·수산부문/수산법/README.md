@@ -1,8 +1,8 @@
 # 수산법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/425>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/914>.
 
-이 본문의 날짜: 2015-09-23 (2015.09.23. 최고인민회의	상임위원회	정령	제677호로	수정보충).
+이 본문의 날짜: 2017-09-08 (2017.09.08. 최고인민회의 상임위원회 정령 제1899호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
