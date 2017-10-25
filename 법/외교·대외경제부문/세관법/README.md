@@ -1,8 +1,8 @@
 # 세관법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2010년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2189>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2017년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1782>.
 
-이 본문의 날짜: 2009-07-21 (2009.07.21. 최고인민회의 상임위원회 정령 제160호로 수정보충).
+이 본문의 날짜: 2017-10-25 (2017.10.25. 최고인민회의 상임위원회 정령 제1960호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -25,4 +25,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2020.07.26. | 최고인민회의 상임위원회 정령 제356호로 수정보충 |
 | 2021.11.30. | 최고인민회의 상임위원회 정령 제792호로 수정보충 |
 
-조문 51개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 72개, 한 조문에 한 파일 (`제001조.md` ...).
