@@ -1,8 +1,8 @@
 # 축산법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/432>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/920>.
 
-이 본문의 날짜: 2015-06-10 (2015.06.10. 최고인민회의	상임위원회	정령	제538호로	수정보충).
+이 본문의 날짜: 2017-11-24 (2017.11.24. 최고인민회의 상임위원회 정령 제1998호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
