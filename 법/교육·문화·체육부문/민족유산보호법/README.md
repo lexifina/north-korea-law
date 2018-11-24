@@ -1,8 +1,8 @@
 # 민족유산보호법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/536>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/234>.
 
-이 본문의 날짜: 2015-06-10 (2015.06.10. 최고인민회의	상임위원회	정령	제538호로	채택).
+이 본문의 날짜: 2018-11-24 (2018.11.24. 최고인민회의 상임위원회 정령 제2477호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
