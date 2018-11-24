@@ -1,8 +1,8 @@
 # 쏘프트웨어산업법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2017년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1711>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/985>.
 
-이 본문의 날짜: 2016-04-07 (2016.04.07. 최고인민회의 상임위원회 정령 제1067호로 수정보충).
+이 본문의 날짜: 2018-11-24 (2018.11.24. 최고인민회의 상임위원회 정령 제2478호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
