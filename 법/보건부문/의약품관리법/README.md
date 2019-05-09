@@ -1,8 +1,8 @@
 # 의약품관리법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/557>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1015>.
 
-이 본문의 날짜: 1998-12-10 (1998.12.10. 최고인민회의	상임위원회	정령	제251호로	수정보충).
+이 본문의 날짜: 2019-05-09 (2019.05.09. 최고인민회의 상임위원회 정령 제34호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
