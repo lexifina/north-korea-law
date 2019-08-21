@@ -1,8 +1,8 @@
 # 선원법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2017년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1635>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/102>.
 
-이 본문의 날짜: 2016-10-19 (2016.10.19. 최고인민회의 상임위원회 정령 제1351호로 수정보충).
+이 본문의 날짜: 2019-08-21 (2019.08.21. 최고인민회의 상임위원회 정령 제96호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
