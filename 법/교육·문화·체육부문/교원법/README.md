@@ -1,8 +1,8 @@
 # 교원법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/530>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/999>.
 
-이 본문의 날짜: 2015-10-08 (2015.10.08. 최고인민회의	상임위원회	정령	제708호로	채택).
+이 본문의 날짜: 2019-11-07 (2019.11.07. 최고인민회의 상임위원회 정령 제153호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
