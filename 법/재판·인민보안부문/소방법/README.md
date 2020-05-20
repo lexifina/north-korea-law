@@ -1,8 +1,8 @@
 # 소방법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1222>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/49>.
 
-이 본문의 날짜: 2011-01-25 (2011.01.25. 최고인민회의 상임위원회 정령 제1360호로 수정보충).
+이 본문의 날짜: 2020-05-20 (2020.05.20. 최고인민회의 상임위원회 정령 제326호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
