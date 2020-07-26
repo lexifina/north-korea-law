@@ -1,8 +1,8 @@
 # 페기페설물취급법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1332>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/481>.
 
-이 본문의 날짜: 2007-04-26 (2007.04.26. 최고인민회의 상임위원회 정령 제2215호로 채택).
+이 본문의 날짜: 2020-07-26 (2020.07.26. 최고인민회의	상임위원회	정령	제359호로	수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
