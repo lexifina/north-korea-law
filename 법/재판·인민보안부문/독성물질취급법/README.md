@@ -1,8 +1,8 @@
 # 독성물질취급법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1220>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/47>.
 
-이 본문의 날짜: 2015-10-08 (2015.10.08. 최고인민회의 상임위원회 정령 제709호로 채택).
+이 본문의 날짜: 2020-07-26 (2020.07.26. 최고인민회의 상임위원회 정령 제357호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
