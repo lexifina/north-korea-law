@@ -1,8 +1,8 @@
 # 국경동식물검역법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1292>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/434>.
 
-이 본문의 날짜: 2008-04-01 (2008.04.01. 최고인민회의 상임위원회 정령 제2643호로 수정보충).
+이 본문의 날짜: 2020-08-22 (2020.08.22. 최고인민회의	상임위원회	정령	제371호로	수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
