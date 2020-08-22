@@ -1,8 +1,8 @@
 # 전염병예방법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1387>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/559>.
 
-이 본문의 날짜: 2019-11-07 (2019.11.07. 최고인민회의 상임위원회 정령 제154호로 수정보충).
+이 본문의 날짜: 2020-08-22 (2020.08.22. 최고인민회의	상임위원회	정령	제370호로	수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -16,4 +16,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2020.08.22. | 최고인민회의 상임위원회 정령 제370호로 수정보충 |
 | 2023.08.19. | 최고인민회의 상임위원회 정령 제1027호로 수정보충 |
 
-조문 45개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 53개, 한 조문에 한 파일 (`제001조.md` ...).
