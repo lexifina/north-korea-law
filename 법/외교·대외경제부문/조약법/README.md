@@ -1,8 +1,8 @@
 # 조약법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1418>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/295>.
 
-이 본문의 날짜: 2016-08-10 (2016.08.10. 최고인민회의 상임위원회 정령 제1245호로 수정).
+이 본문의 날짜: 2020-08-22 (2020.08.22. 최고인민회의 상임위원회 정령 제366호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -12,4 +12,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2016.08.10. | 최고인민회의 상임위원회 정령 제1245호로 수정 |
 | 2020.08.22. | 최고인민회의 상임위원회 정령 제366호로 수정보충 |
 
-조문 23개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 27개, 한 조문에 한 파일 (`제001조.md` ...).
