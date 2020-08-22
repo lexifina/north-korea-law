@@ -1,8 +1,8 @@
 # 외화관리법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1340>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/192>.
 
-이 본문의 날짜: 2004-11-16 (2004.11.16. 최고인민회의 상임위원회 정령 제750호로 수정보충).
+이 본문의 날짜: 2020-08-22 (2020.08.22. 최고인민회의 상임위원회 정령 제368호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
