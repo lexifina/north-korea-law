@@ -1,8 +1,8 @@
 # 외국투자기업 및 외국인세금법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2019년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1413>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/290>.
 
-이 본문의 날짜: 2015-09-09 (2015.09.09. 최고인민회의 상임위원회 정령 제656호로 수정보충).
+이 본문의 날짜: 2020-10-08 (2020.10.08. 최고인민회의 상임위원회 정령 제441호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
