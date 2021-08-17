@@ -1,8 +1,8 @@
 # 외국투자기업회계검증법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1045>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/292>.
 
-이 본문의 날짜: 2020-07-13 (2020.07.13. 최고인민회의 상임위원회 정령 제353호로 수정보충).
+이 본문의 날짜: 2021-08-17 (2021.08.17. 최고인민회의 상임위원회 정령 제668호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
