@@ -1,8 +1,8 @@
 # 지방주권기관법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/822>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/7>.
 
-이 본문의 날짜: 2016-08-10 (2016.08.10. 최고인민회의 상임위원회 정령 제1245호로 수정보충).
+이 본문의 날짜: 2021-10-26 (2021.10.26. 최고인민회의 상임위원회 정령 제753호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
