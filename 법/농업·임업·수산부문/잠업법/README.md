@@ -1,12 +1,12 @@
 # 잠업법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/919>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/129>.
 
-이 본문의 날짜: 2013-10-09 (2013.10.09. 최고인민회의 상임위원회 정령 제3397호로 채택).
+이 본문의 날짜: 2021-10-26 (2021.10.26. 최고인민회의 상임위원회 정령 제755호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
 | 2013.10.09. | 최고인민회의 상임위원회 정령 제3397호로 채택 |
 | 2021.10.26. | 최고인민회의 상임위원회 정령 제755호로 수정보충 |
 
-조문 44개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 52개, 한 조문에 한 파일 (`제001조.md` ...).
