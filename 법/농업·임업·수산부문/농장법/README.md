@@ -1,8 +1,8 @@
 # 농장법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/912>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/118>.
 
-이 본문의 날짜: 2020-07-07 (2020.07.07. 최고인민회의 상임위원회 정령 제351호로 수정).
+이 본문의 날짜: 2021-11-15 (2021.11.15. 최고인민회의 상임위원회 정령 제778호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -16,4 +16,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2021.03.11. | 최고인민회의 상임위원회 정령 제548호로 수정보충 |
 | 2021.11.15. | 최고인민회의 상임위원회 정령 제778호로 수정보충 |
 
-조문 62개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 73개, 한 조문에 한 파일 (`제001조.md` ...).
