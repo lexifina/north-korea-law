@@ -1,8 +1,8 @@
 # 마약관리법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1011>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/248>.
 
-이 본문의 날짜: 2016-11-09 (2016.11.09. 최고인민회의 상임위원회 정령 제1387호로 수정보충).
+이 본문의 날짜: 2021-12-14 (2021.12.14. 최고인민회의 상임위원회 정령 제802호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -11,4 +11,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2016.11.09. | 최고인민회의 상임위원회 정령 제1387호로 수정보충 |
 | 2021.12.14. | 최고인민회의 상임위원회 정령 제802호로 수정보충 |
 
-조문 67개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 74개, 한 조문에 한 파일 (`제001조.md` ...).
