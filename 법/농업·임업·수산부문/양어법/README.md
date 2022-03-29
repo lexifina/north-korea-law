@@ -1,8 +1,8 @@
 # 양어법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/428>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/126>.
 
-이 본문의 날짜: 2014-03-19 (2014.03.19. 최고인민회의	상임위원회	정령	제3601호로	수정보충).
+이 본문의 날짜: 2022-03-29 (2022.03.29. 최고인민회의 상임위원회 정령 제921호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -11,4 +11,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2014.03.19. | 최고인민회의 상임위원회 정령 제3617호로 수정보충 |
 | 2022.03.29. | 최고인민회의 상임위원회 정령 제921호로 수정보충 |
 
-조문 49개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 52개, 한 조문에 한 파일 (`제001조.md` ...).
