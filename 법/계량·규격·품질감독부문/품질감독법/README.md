@@ -1,8 +1,8 @@
 # 품질감독법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/443>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/141>.
 
-이 본문의 날짜: 2020-10-08 (2020.10.08. 최고인민회의	상임위원회	정령	제442호로	수정보충).
+이 본문의 날짜: 2022-05-31 (2022.05.31. 최고인민회의 상임위원회 정령 972호로 채택).
 
 | 날짜 | 기록 |
 | --- | --- |
