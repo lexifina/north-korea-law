@@ -1,8 +1,8 @@
 # 건설법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/446>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/144>.
 
-이 본문의 날짜: 2021-04-30 (2021.04.30. 최고인민회의	상임위원회	정령	제611호로	수정보충).
+이 본문의 날짜: 2022-06-14 (2022.06.14. 최고인민회의 상임위원회 정령 제990호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -28,4 +28,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2022.03.29. | 최고인민회의 상임위원회 정령 제920호로 수정보충 |
 | 2022.06.14. | 최고인민회의 상임위원회 정령 제990호로 수정보충 |
 
-조문 54개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 56개, 한 조문에 한 파일 (`제001조.md` ...).
