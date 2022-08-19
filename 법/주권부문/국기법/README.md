@@ -1,8 +1,8 @@
 # 국기법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2020년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/819>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/4>.
 
-이 본문의 날짜: 2020-07-07 (2020.07.07. 최고인민회의 상임위원회 정령 제351호로 수정보충).
+이 본문의 날짜: 2022-08-19 (2022.08.19. 최고인민회의 상임위원회 정령 제1029호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
