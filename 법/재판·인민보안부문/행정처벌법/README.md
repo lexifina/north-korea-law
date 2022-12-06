@@ -1,8 +1,8 @@
 # 행정처벌법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/360>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/58>.
 
-이 본문의 날짜: 2020-12-18 (2020.12.18. 최고인민회의 상임위원회 지시 제72호로 수정보충).
+이 본문의 날짜: 2022-12-06 (2022.12.06. 최고인민회의 상임위원회 정령 제1146호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
