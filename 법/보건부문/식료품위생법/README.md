@@ -1,8 +1,8 @@
 # 식료품위생법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/553>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/251>.
 
-이 본문의 날짜: 2013-04-04 (2013.04.04. 최고인민회의	상임위원회	정령	제3104호로	수정보충).
+이 본문의 날짜: 2022-12-06 (2022.12.06. 최고인민회의 상임위원회 정령 제1141호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -14,4 +14,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2013.04.04. | 최고인민회의 상임위원회 정령 제3104호로 수정보충 |
 | 2022.12.06. | 최고인민회의 상임위원회 정령 제1141호로 수정보충 |
 
-조문 32개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 50개, 한 조문에 한 파일 (`제001조.md` ...).
