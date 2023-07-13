@@ -1,8 +1,8 @@
 # 전자결제법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/497>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/195>.
 
-이 본문의 날짜: 2021-10-29 (2021.10.29. 최고인민회의	상임위원회	정령	제762호로	채택).
+이 본문의 날짜: 2023-07-13 (2023.07.13. 최고인민회의 상임위원회 정령 제1365호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
