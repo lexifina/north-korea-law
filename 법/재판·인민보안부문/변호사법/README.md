@@ -1,8 +1,8 @@
 # 변호사법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2022년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/350>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/48>.
 
-이 본문의 날짜: 1993-12-23 (1993.12.23. 최고인민회의 상설회의 결정 제43호로 채택).
+이 본문의 날짜: 2023-12-05 (2023.12.05. 최고인민회의 상임위원회 정령 제1493호로 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -10,4 +10,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2022.12.24. | 최고인민회의 상임위원회 정령 제1171호로 수정보충 |
 | 2023.12.05. | 최고인민회의 상임위원회 정령 제1493호로 수정보충 |
 
-조문 31개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 51개, 한 조문에 한 파일 (`제001조.md` ...).
