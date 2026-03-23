@@ -1,8 +1,8 @@
-# 사회주의헌법
+# 헌법
 
-The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2024년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/1>.
+The Ministry of Unification North Korea Information Portal (북한정보포털 북한법령), 2026년 편찬본, <https://nkinfo.unikorea.go.kr/NKLaw/law-detail/2711>.
 
-이 본문의 날짜: 2023-09-27 (2023.09.26~27. 최고인민회의 제14기 제9차회의에서 수정보충).
+이 본문의 날짜: 2026-03-23 (2026.03.22~23. 최고인민회의 제15기 제1차회의에서 수정보충).
 
 | 날짜 | 기록 |
 | --- | --- |
@@ -21,4 +21,4 @@ The Ministry of Unification North Korea Information Portal (북한정보포털 �
 | 2025.01.22~23. | 최고인민회의 제14기 제12차회의에서 수정보충 |
 | 2026.03.22~23. | 최고인민회의 제15기 제1차회의에서 수정보충 |
 
-조문 172개, 한 조문에 한 파일 (`제001조.md` ...).
+조문 168개, 한 조문에 한 파일 (`제001조.md` ...).
