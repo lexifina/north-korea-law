@@ -1,0 +1,9 @@
+No legal text is held in this repository.
+
+The facts in `legal-system` come from Wikidata, released under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+The treaty actions in `treaties` are facts (treaty, action, date, depositary) taken from the UN Treaty Collection (https://treaties.un.org/); no treaty text or descriptive text is copied.
+
+The catalogue and wipo-treaties facts (titles, subjects, dates, administering organisation, links) come from WIPO Lex, https://www.wipo.int/wipolex/, retrieved 30 October 2026, whose content is published under CC BY 4.0 (https://www.wipo.int/web/terms-of-use). Only facts are copied; no descriptive text and no law or treaty text. Source: World Intellectual Property Organization. Changes made by Lexifina: records were turned into one Markdown file per record, with the dates arranged as a git history. WIPO does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

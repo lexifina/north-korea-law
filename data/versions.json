@@ -1,0 +1,583 @@
+{
+ "country": "KP",
+ "acts": [
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "North Korea (Democratic People's Republic of Korea): legal system facts (Wikidata)",
+   "url": "https://www.wikidata.org/wiki/Q423",
+   "versions": [
+    {
+     "from": "1948-09-09",
+     "units": 1,
+     "source_url": "https://www.wikidata.org/wiki/Q423",
+     "sha256": "wikidata-entity-Q423"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 10,
+     "source_url": "https://www.wikidata.org/wiki/Q423",
+     "sha256": "wikidata-entity-Q423"
+    }
+   ]
+  },
+  {
+   "slug": "treaties",
+   "short": "Treaties",
+   "title": "Treaty actions of Democratic People's Republic of Korea (UN Treaty Collection)",
+   "url": "https://treaties.un.org/",
+   "versions": [
+    {
+     "from": "1973-05-19",
+     "units": 1,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1980-10-29",
+     "units": 2,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1981-09-14",
+     "units": 4,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1982-12-01",
+     "units": 5,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1982-12-10",
+     "units": 6,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1984-08-08",
+     "units": 7,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1984-11-08",
+     "units": 9,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1989-01-31",
+     "units": 10,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1990-08-23",
+     "units": 11,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1990-09-21",
+     "units": 11,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1992-06-11",
+     "units": 13,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1994-02-22",
+     "units": 14,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1994-10-26",
+     "units": 14,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1994-12-05",
+     "units": 14,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "1995-01-24",
+     "units": 16,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2001-04-20",
+     "units": 17,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2001-11-12",
+     "units": 19,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2003-07-29",
+     "units": 19,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2003-12-29",
+     "units": 20,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2005-04-27",
+     "units": 21,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2007-03-19",
+     "units": 25,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2008-07-10",
+     "units": 26,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2009-03-10",
+     "units": 27,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2013-07-03",
+     "units": 28,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2013-07-25",
+     "units": 28,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2014-09-09",
+     "units": 29,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2014-11-10",
+     "units": 29,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 30,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2016-06-17",
+     "units": 31,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 31,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    },
+    {
+     "from": "2016-12-06",
+     "units": 31,
+     "source_url": "https://treaties.un.org/",
+     "sha256": "untc-status-pages-2026-10-29"
+    }
+   ]
+  },
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of laws of North Korea (Democratic People's Republic of Korea) recorded by WIPO Lex (title, date, link only; no law text)",
+   "url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+   "versions": [
+    {
+     "from": "1950-03-03",
+     "units": 2,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1972-12-27",
+     "units": 3,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1984-09-08",
+     "units": 4,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1992-10-05",
+     "units": 7,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1993-01-31",
+     "units": 8,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1995-09-06",
+     "units": 9,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1997-02-05",
+     "units": 10,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1998-01-14",
+     "units": 11,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1998-05-13",
+     "units": 12,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1998-06-03",
+     "units": 13,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1999-07-21",
+     "units": 14,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2000-03-11",
+     "units": 16,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2000-10-27",
+     "units": 17,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2001-03-21",
+     "units": 18,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2002-06-14",
+     "units": 19,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2003-06-11",
+     "units": 20,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2003-08-27",
+     "units": 21,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2004-06-30",
+     "units": 22,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2004-07-14",
+     "units": 23,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2009-11-25",
+     "units": 24,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    }
+   ]
+  },
+  {
+   "slug": "wipo-treaties",
+   "short": "WIPO treaties",
+   "title": "Treaty actions of North Korea (Democratic People's Republic of Korea) recorded by WIPO Lex (facts only; no treaty text)",
+   "url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+   "versions": [
+    {
+     "from": "1957-08-27",
+     "units": 3,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1974-05-17",
+     "units": 4,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1977-08-16",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1980-03-07",
+     "units": 7,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1980-04-08",
+     "units": 8,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1981-09-14",
+     "units": 9,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1982-12-10",
+     "units": 10,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1983-05-13",
+     "units": 11,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1988-03-09",
+     "units": 12,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1988-04-13",
+     "units": 13,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1992-04-15",
+     "units": 14,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1994-10-26",
+     "units": 15,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1994-12-05",
+     "units": 16,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1995-01-24",
+     "units": 17,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1996-07-03",
+     "units": 18,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1997-03-06",
+     "units": 20,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "1998-07-21",
+     "units": 21,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2001-11-21",
+     "units": 23,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2002-08-26",
+     "units": 24,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2003-01-28",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2003-07-16",
+     "units": 26,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2003-07-29",
+     "units": 27,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2003-08-25",
+     "units": 28,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2003-12-29",
+     "units": 29,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2004-10-04",
+     "units": 30,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2005-04-27",
+     "units": 32,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2008-11-21",
+     "units": 33,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2016-02-19",
+     "units": 35,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2016-06-13",
+     "units": 36,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 37,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2016-12-06",
+     "units": 38,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2018-05-22",
+     "units": 39,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2019-03-27",
+     "units": 40,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 42,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2024-01-30",
+     "units": 44,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 45,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    },
+    {
+     "from": "2024-11-22",
+     "units": 46,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/KP",
+     "sha256": "30271ceb08dab868e34fa0957a23825c0594a827b72b8bdd6531530fe2895d69"
+    }
+   ]
+  }
+ ]
+}
