@@ -60,6 +60,7 @@ Each UN treaty action is credited to the action (`Accession: Vienna Convention o
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus (not in this repository; its hash is in `data/corpus.sha256`); it also checks that every commit's trailers parse, that `main` has no merge commits and that no commit is dated in the future.
 - `tools/build.py` writes the history from that one corpus file, and the same corpus gives the same commit hashes. [`REPRODUCE.md`](REPRODUCE.md) records that the checks were not yet run for this build and that no second build has been compared.
 - `data/versions.json` gives each version's source. Only facts are taken: titles, subjects, dates and links.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ Each UN treaty action is credited to the action (`Accession: Vienna Convention o
 See [`LICENSE`](LICENSE). Only facts are taken, with no law or treaty text: treaty names, actions and dates, and WIPO Lex's titles, subjects, dates and links. WIPO Lex's content is CC BY 4.0 (source: World Intellectual Property Organization, which does not endorse this repository), and Wikidata's is CC0. Lexifina's arrangement, tables, commit messages and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, and no model runs when the history is built (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
