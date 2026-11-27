@@ -72,3 +72,14 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+
+## Law text (added 2026-11-27)
+
+The Constitution (`헌법/`) and the laws (`법/<분야>/<법명>/`) are built by a separate runner from the Ministry of
+Unification North Korea Information Portal's law database (https://nkinfo.unikorea.go.kr/NKLaw), which its web page reads as JSON:
+`/NKLaw/nklaw/categories`, `/categories/<n>/laws`, `/laws/versions?title=<법명>` (every printed edition, each its
+own id), `/laws/<id>/content` and `/laws/<id>/histories` (the adoption and amendment record, given only with the
+current edition). One request at a time about a second apart, stepping up after ten clean minutes. The runner
+appends one commit per dated version to `main`; it does not rewrite the history above. The dating rules are in
+[`STRUCTURE.md`](STRUCTURE.md); editions that differ only in printing (the same decision day, a few characters
+apart) are committed once, from the later edition.

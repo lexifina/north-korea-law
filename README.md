@@ -5,22 +5,23 @@
 <img alt="North Korean law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
-North Korea's law as a git history, on the design every country here shares: one file per entry, one commit per version on the day it took effect, and the record that made each change as the commit's author. For now it holds no law text, only facts: a catalogue of laws of the Democratic People's Republic of Korea and its actions on treaties. `git blame` names the record behind every line; `git log` lists every entry for a law or a treaty; picking a date gives the record as it stood that day.
+North Korea's law as a git history, on the design every country here shares: one file per entry, one commit per version on the day it took effect, and the record that made each change as the commit's author. It holds the Socialist Constitution and the laws of the Democratic People's Republic of Korea in Korean, as the Republic of Korea's Ministry of Unification prints them on its North Korea Information Portal (a secondary copy), with a catalogue of laws and North Korea's actions on treaties. `git blame` names the record behind every line; `git log` lists every entry for a law or a treaty; picking a date gives the record as it stood that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is North Korea's national law, which global-law reads at `north-korea/national/acts/`.
 
-**What is in it now:** no law text. [`catalogue/`](catalogue/README.md) lists 25 laws and other acts recorded by WIPO Lex (the Socialist Constitution, the Criminal Code and the Code of Criminal Procedures, 18 laws, most on intellectual property, foreign investment and trade, and 4 implementing regulations), with their titles, dates (1950 to 2025) and links. [`treaties/`](treaties/README.md) records 38 actions on 31 multilateral treaties deposited with the UN Secretary-General (19 accessions, 10 signatures, 6 ratifications, 2 approvals and 1 acceptance), from 19 May 1973 to 6 December 2016, and [`wipo-treaties/`](wipo-treaties/README.md) North Korea's part in 46 treaties as WIPO Lex records it. [`legal-system/`](legal-system/README.md) holds a few facts from Wikidata, among them six of its items for the constitutions. [`data/laws.csv`](data/laws.csv) lists the 107 records the commits are credited to; [`REPRODUCE.md`](REPRODUCE.md) says how the files were made.
+**What is in it now:** the Constitution ([`헌법/`](헌법/README.md)) in 6 versions (1998-09-05, 2010-04-09, 2016-06-29, 2019-08-29, 2023-09-27, 2026-03-23) and 15 laws in 3 sectors under `법/<분야>/<법명>/` (among them [`형법`](법/형·민사부문/형법/README.md), `형사소송법`, `민법`, `가족법`, `사회주의로동법` and the foreign-investment laws), 2,414 articles in 56 dated versions; see [`STRUCTURE.md`](STRUCTURE.md). Alongside, as before: [`catalogue/`](catalogue/README.md) lists 25 laws and other acts recorded by WIPO Lex (the Socialist Constitution, the Criminal Code and the Code of Criminal Procedures, 18 laws, most on intellectual property, foreign investment and trade, and 4 implementing regulations), with their titles, dates (1950 to 2025) and links. [`treaties/`](treaties/README.md) records 38 actions on 31 multilateral treaties deposited with the UN Secretary-General (19 accessions, 10 signatures, 6 ratifications, 2 approvals and 1 acceptance), from 19 May 1973 to 6 December 2016, and [`wipo-treaties/`](wipo-treaties/README.md) North Korea's part in 46 treaties as WIPO Lex records it. [`legal-system/`](legal-system/README.md) holds a few facts from Wikidata, among them six of its items for the constitutions. [`data/laws.csv`](data/laws.csv) lists the 107 records the commits are credited to; [`REPRODUCE.md`](REPRODUCE.md) says how the files were made.
 
-**Why there is no law text.** No official source of North Korean law was found online that can be read and reused, so this record holds facts only; law text will be added once such a copy is found.
+**Why a secondary copy.** North Korea publishes no official legislation online that can be read (its own hosts are not accessed), so the law text is the Ministry of Unification's, from its 북한법령 database (<https://nkinfo.unikorea.go.kr/NKLaw>), and every version says so in a `Source-status: secondary copy` trailer.
 
-Each entry is one file: `catalogue/law-21231.md` is WIPO Lex's entry for the Socialist Constitution, adopted on 27 December 1972 and amended up to 29 August 2019. Each UN treaty is one file named from its number in the UN Treaty Collection: `treaties/untc-iv-11.md` is the Convention on the Rights of the Child (IV-11).
+Each article is one file: `헌법/제001조.md` is Article 1 of the Constitution, `법/형·민사부문/형법/제061조.md` Article 61 of the Criminal Law. Each other entry is one file too: `catalogue/law-21231.md` is WIPO Lex's entry for the Socialist Constitution, adopted on 27 December 1972 and amended up to 29 August 2019. Each UN treaty is one file named from its number in the UN Treaty Collection: `treaties/untc-iv-11.md` is the Convention on the Rights of the Child (IV-11).
 
-The records are in English, as WIPO Lex, the UN Treaty Collection and Wikidata give them.
+The law text is in Korean, as the portal prints it; the other records are in English, as WIPO Lex, the UN Treaty Collection and Wikidata give them.
 
 ## Questions as git commands
 
 | Question | Command |
 | --- | --- |
+| Every version of Article 58 of the Constitution | `git log -p --word-diff -- 헌법/제058조.md` |
 | Every action North Korea took on the Convention on the Rights of the Child | `git log -p --word-diff -- treaties/untc-iv-11.md` |
 | Which action wrote each line? | `git blame treaties/untc-iv-11.md` |
 | Every version of the Convention's record, with the day of each | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- treaties/untc-iv-11.md` |
@@ -49,6 +50,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 Each commit is dated at noon, Asia/Pyongyang, and carries its day in its `In-force:` trailer:
 
+- for the law text, the day of the decision that adopted or last amended it (최고인민회의 or 최고인민회의 상임위원회 정령), as the portal records it (`In-force-basis: adoption-decree (as recorded by the Ministry of Unification North Korea Information Portal)`); there is no separate gazette. An older edition the portal prints without a record of its own is matched to the last recorded decision of its year or earlier (`Date-rule: edition-year`); see [`STRUCTURE.md`](STRUCTURE.md);
 - for WIPO Lex's laws, the date WIPO Lex records (promulgation, entry into force, commencement or adoption, in that order): the day of adoption for all but the Intellectual Property Law, dated by its entry into force on 1 November 2025; a later "amended up to" date is only in the file;
 - for treaties, the day of North Korea's action as the UN Treaty Collection or WIPO Lex records it; for the Wikidata facts, the state's inception (9 September 1948), then the day they were read (30 October 2026);
 - git cannot store dates before 1970, so the 3 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
@@ -64,7 +66,7 @@ Each UN treaty action is credited to the action (`Accession: Vienna Convention o
 
 ## What it does not show
 
-- **Law text.** Neither the Socialist Constitution nor any statute, decree or regulation is here as text.
+- **Every version of a law.** Only the editions the portal prints (2004 to 2026), so a law's history starts at its oldest printed edition, not at its adoption, and amendments between two editions are one version. No decrees or regulations, and no Party rules (the portal gives them no dates).
 - **Most of North Korea's laws.** The catalogue is WIPO Lex's list, mostly intellectual property, foreign investment and trade law; it is not a list of all laws. No case law.
 - **Amendments and the day a law took effect.** Laws are dated by adoption, and the amendments WIPO Lex notes are not versions of their own.
 - **Most treaty actions.** Only treaties on selected UN Treaty Collection status pages and WIPO Lex's list; no bilateral treaties, and no treaty text, reservations or declarations.
@@ -74,13 +76,14 @@ Each UN treaty action is credited to the action (`Accession: Vienna Convention o
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
+| [Ministry of Unification, North Korea Information Portal: 북한법령](https://nkinfo.unikorea.go.kr/NKLaw) | Law text in Korean (secondary copy); free for non-commercial use with the source named | yes, each printed edition on the day of the decision it reflects | read on 27 November 2026 |
 | [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/KP) | Catalogue of laws and treaties (CC BY 4.0) | yes, each entry on the date it records | 25 laws and 46 treaties: titles, subjects, dates and links; read on 30 October 2026 |
 | [United Nations Treaty Collection](https://treaties.un.org/) | Status pages of multilateral treaties deposited with the UN Secretary-General | yes, each action on its day | Facts only: treaty, action, date and depositary; read on 29 October 2026 |
 | [Wikidata](https://www.wikidata.org/wiki/Q423) | Open facts (CC0) | one snapshot | The legal-system facts, community-edited, as Wikidata holds them |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). Only facts are taken, with no law or treaty text: treaty names, actions and dates, and WIPO Lex's titles, subjects, dates and links. WIPO Lex's content is CC BY 4.0 (source: World Intellectual Property Organization, which does not endorse this repository), and Wikidata's is CC0. Lexifina's arrangement, tables, commit messages and tools are CC0 1.0.
+See [`LICENSE`](LICENSE). The law text is the Ministry of Unification's North Korea Information Portal's, used under its terms (non-commercial use, source named, wording unchanged). For the other records only facts are taken, with no treaty text: treaty names, actions and dates, and WIPO Lex's titles, subjects, dates and links. WIPO Lex's content is CC BY 4.0 (source: World Intellectual Property Organization, which does not endorse this repository), and Wikidata's is CC0. Lexifina's arrangement, tables, commit messages and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, and no model runs when the history is built (see [`REPRODUCE.md`](REPRODUCE.md)).
 
