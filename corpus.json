@@ -1,0 +1,27 @@
+{
+  "corpus": "kp/national/acts",
+  "name": "North Korea law: the Socialist Constitution and the laws of the DPRK in Korean, as the Ministry of Unification (Republic of Korea) North Korea Information Portal prints them (secondary copy), each version dated by the decision that adopted or amended it",
+  "label": "North Korea",
+  "language": "ko",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source-status",
+      "Source",
+      "Kind",
+      "Edition"
+    ],
+    "time": "12:00 Asia/Pyongyang"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the 최고인민회의 or 최고인민회의 상임위원회 decision that adopted or last amended the text, as the portal records it",
+  "citation": {
+    "file": "(헌법|당규/[^/]+|법/[^/]+/[^/]+)/제0*([0-9]+)조\\.md",
+    "cites": "(^|[^0-9])제 ?{n} ?조"
+  },
+  "sources": [
+    "https://nkinfo.unikorea.go.kr/NKLaw"
+  ]
+}
